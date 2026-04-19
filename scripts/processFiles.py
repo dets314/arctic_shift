@@ -9,7 +9,7 @@ from fileStreams import getFileJsonStream
 from utils import FileProgressLog
 
 
-fileOrFolderPath = r"<path to file or folder>"
+fileOrFolderPath = r"‪C:\Users\steve\Downloads\325289AEDD75.TorrentRTFREE_qtx9tqphctw9r!App\Downloads\reddit\submissions\RS_2025-03.zst"
 recursive = False
 
 def processFile(path: str):
